@@ -16,11 +16,20 @@ Talk to me about:
 - Database design and management with **SQL**.
 - Building full-stack web applications and robust data pipelines.
 
+## 🚀 Projects
+- [Website Portfolio](#) - A sample website I built using Flask and Bootstrap.
+- [Data Analysis Project](#) - Analyzing real-world datasets with Python & Pandas.
+
 ## Hello World!! 🤔
 - 💬 Ask me about anything web development or data analysis.
 - 📫 Contact me: [Email](mailto:mohammedarshah01@gmail.com)
-- ⚡ Fun fact: I love turning messy data into meaningful insights!
+- 🎯 Fun fact: I love turning messy data into meaningful insights and exploring new tech!
+
+## 👋 Say Hi
+Feel free to reach out anytime, I love connecting with fellow coders!  
 
 ![Mohammed's github stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&hide=["issues"]&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
