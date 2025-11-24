@@ -3,6 +3,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 [![Gmail Badge](https://img.shields.io/badge/-mohammedarshah01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohammedarshah01@gmail.com)](mailto:mohammedarshah01@gmail.com)
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
 
 I am Mohammed Arshah 😃, 16 years old. I am a Web Developer and Data Analyst using Python. I love exploring new technologies and solving challenging problems with code.  
 
